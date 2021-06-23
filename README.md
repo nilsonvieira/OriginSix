@@ -48,11 +48,11 @@ Configurações do Programa
 Necessário criar uma conta no Figma
 
 ## Imagens
-As imagens usadas no site foram encontradas no [unsplash](https://unsplash.com).
+As imagens usadas no site foram encontradas no [unsplash](https://unsplash.com).\
 Example: https://unsplash.com/photos/WXmHwPcFamo
 
 ## Fontes
-As fontes foram encontradas no [Google Fonts](https://fonts.google.com).
+As fontes foram encontradas no [Google Fonts](https://fonts.google.com).\
 Foram elas:
 - Poppins
   - Regular 400
