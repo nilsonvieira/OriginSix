@@ -18,15 +18,12 @@ Configurações do Programa
     "terminal.integrated.fontSize": 16,
     "workbench.colorTheme": "Omni",
     "workbench.iconTheme": "material-icon-theme",
-    // no vídeo você viu uma config de fonte aqui, 
-		// mas ela não é compatível com todos os sistemas, por isso, tirei ok?
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
     "workbench.editor.tabSizing": "shrink",
     "explorer.compactFolders": false,
     "window.zoomLevel": 1,
 
-    // formatter
     "prettier.tabWidth": 2,
     "prettier.semi": false, 
     "prettier.singleQuote": true,
@@ -45,3 +42,23 @@ Configurações do Programa
     "liveServer.settings.donotVerifyTags": true,
 }
 ```
+# Terceiros
+## Modelagem
+### Figma
+Necessário criar uma conta no Figma
+
+## Imagens
+As imagens usadas no site foram encontradas no [unsplash](https://unsplash.com).
+Example: https://unsplash.com/photos/WXmHwPcFamo
+
+## Fontes
+As fontes foram encontradas no [Google Fonts](https://fonts.google.com).
+Foram elas:
+- Poppins
+  - Regular 400
+  - Medium 500
+  - Bold 700
+- DM Sans
+  - Regular 400
+  - Medium 500
+  - Bold 700
